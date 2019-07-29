@@ -1,0 +1,32 @@
+[
+    {   "id" : "1",
+        "key" : "/home",
+        "name" : "首页",
+        "icon" : "home"
+    },
+    {   "id" :"2",
+        "key" : "/VPN",
+        "name" : "购买VPN套餐",
+        "icon" : "like"
+    },
+    {   "id" :"5",
+        "key" : "/recharge",
+        "name" : "充值中心",
+        "icon" : "pay-circle"
+    },
+    {   "id" : "4",
+        "key" : "/buyMeal",
+        "name" : "购买IP套餐",
+        "icon" : "dollar"
+    },
+    {   "id" : "3",
+        "key" : "/getIp",
+        "name" : "提取IP",
+        "icon" : "cloud"
+    },
+    {   "id" : "6",
+        "key" : "/help",
+        "name" : "帮助中心",
+        "icon" : "team"
+    }
+]

@@ -1,0 +1,45 @@
+
+h1 
+    color #0c71c3
+    margin-bottom: 50px
+.feature
+    padding: 20px 50px
+    .innerBox
+        position relative
+        box-shadow: 0 0 32px rgba(60, 127, 208, 0.2)
+        min-height 350px
+        transition: all 0.3s ease;
+    .innerBox:hover
+        transform:translateY(-20px);
+.sigma-content
+    text-align: center;
+    background-color: #fff;
+    .sigma-middle-line:before
+        content: '';
+        display: block;
+        height: 1px;
+        width: 100%;
+        background-color: #999;/*颜色需与主题大背景色一致*/ 
+        position: relative;
+        top: 10px;/*调节线高*/
+        left: 0;
+    .sigma-line-text
+        display: inline-block;
+        background: #fff;
+        padding: 0 18px 0 18px;
+        position: relative;
+        color: #bbb
+        font-size: 14px;
+        font-weight: 500
+.listType
+    list-style-type: none;
+    font-size: 14px
+    line-height: 30px
+    padding-top 8px
+    margin-left: -30px
+    text-align: left
+.listType::before
+    content:"★"
+    margin-right: 8px
+    color #0c71c3
+    font-size:14px

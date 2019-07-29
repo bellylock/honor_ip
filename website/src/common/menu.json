@@ -1,0 +1,27 @@
+[
+    {   "id" : "10",
+        "key" : "/download",
+        "name" : "下载中心",
+        "icon" : "cloud-download"
+    },
+    {   "id" : "8",
+        "key" : "/server",
+        "name" : "服务器地址",
+        "icon" : "cluster"
+    },
+    {   "id" : "6",
+        "key" : "/help",
+        "name" : "帮助中心",
+        "icon" : "team"
+    },
+    {   "id" : "7",
+        "key" : "/agency",
+        "name" : "代理合作",
+        "icon" : "rocket"
+    },
+    {   "id" :"5",
+        "key" : "/recharge",
+        "name" : "充值中心",
+        "icon" : "pay-circle"
+    }
+]
